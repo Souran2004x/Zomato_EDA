@@ -1,1 +1,1 @@
-# Zomato_EDA
+An exploratory data analysis on zomato sales dataset extracting valuable insights on offline/online vs orders rating,votes vs type of restaurants,rwating vs number of restaurants,count of average cost per two persons and rating disribution vs the count of restaurants.Prepared an interactive heatmap representing types of restaurants vs the preference of the mode of order(online/offline).
